@@ -3,5 +3,6 @@ document.addEventListener(`click`, function(e) {
 })
 
 document.addEventListener(`DOMContentLoaded`, function(e) {
-  Guitar.all();
+  Guitars.all();
 })
+
